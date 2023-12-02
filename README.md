@@ -7,3 +7,4 @@
 |Day|Solution|Stars|
 |--|--|--|
 |1|[Trebuchet?!](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day1.cs)|:star::star:|
+|1|[Cube Conundrum](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day2.cs)|:star::star:|
