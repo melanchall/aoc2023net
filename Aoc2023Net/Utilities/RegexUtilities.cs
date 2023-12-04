@@ -29,5 +29,7 @@ namespace Aoc2023Net.Utilities
         public static int GetGroupCapturesCount(this Match match, string groupName) => match.Groups[groupName].Captures.Count;
 
         public static IEnumerable<string> GetGroupStringCaptures(this Match match, int groupIndex) => match.Groups[groupIndex].Captures.Select(c => c.Value);
+
+        public static int[] GetGroupInt32Captures(this Match match, int groupIndex) => match.Groups[groupIndex].Captures.Select(c => int.Parse(c.Value.Trim())).ToArray();
     }
 }
