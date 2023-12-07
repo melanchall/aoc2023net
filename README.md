@@ -12,3 +12,4 @@
 |4|[Scratchcards](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day4.cs)|:star::star:|
 |5|[If You Give A Seed A Fertilizer](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day5.cs)|:star::star:|
 |6|[Wait For It](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day6.cs)|:star::star:|
+|7|[Camel Cards](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day7.cs)|:star::star:|
