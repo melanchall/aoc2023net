@@ -2,7 +2,7 @@
 
 void WriteHello()
 {
-    Output.WriteInfo("Welcome to Advent of Code 2021! Please ");
+    Output.WriteInfo("Welcome to Advent of Code 2023! Please ");
     Output.WriteImportant("write the number of a day");
     Output.WriteInfo(" to solve: ");
 }
