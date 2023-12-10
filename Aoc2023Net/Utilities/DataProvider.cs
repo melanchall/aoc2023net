@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Aoc2023Net.Utilities
+﻿namespace Aoc2023Net.Utilities
 {
     internal static class DataProvider
     {

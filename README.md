@@ -15,3 +15,4 @@
 |7|[Camel Cards](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day7.cs)|:star::star:|
 |8|[Haunted Wasteland](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day8.cs)|:star::star:|
 |9|[Mirage Maintenance](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day9.cs)|:star::star:|
+|10|[Pipe Maze](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day10.cs)|:star:|
