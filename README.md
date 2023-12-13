@@ -17,3 +17,4 @@
 |9|[Mirage Maintenance](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day9.cs)|:star::star:|
 |10|[Pipe Maze](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day10.cs)|:star:|
 |11|[Cosmic Expansion](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day11.cs)|:star::star:|
+|12|[Hot Springs](https://github.com/melanchall/aoc2023net/blob/main/Aoc2023Net/Days/Day12.cs)|:star:|
